@@ -1,0 +1,3 @@
+# app-ads.txt for KLYIN.IQ (all games)
+# After creating your AdMob account, replace the line below with the exact line AdMob gives you:
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
